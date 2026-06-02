@@ -1,4 +1,4 @@
-# Compatibilité des équipements Bluetooth
+# 8 - Compatibilité Bluetooth
 
 
 # Amazfit

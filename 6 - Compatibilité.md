@@ -1,4 +1,4 @@
-# Compatibilité
+# 6 - Compatibilité
 
 >**INFORMATION**
 >

@@ -1,5 +1,5 @@
 
-## Beta et Alpha test de Jeedom
+## 7 - Beta
 
 ### Définition
 

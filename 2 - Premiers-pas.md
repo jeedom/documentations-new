@@ -1,4 +1,4 @@
-# Premiers pas avec Jeedom
+# 2 - Premiers pas avec Jeedom
 
 Cette documentation présente les étapes à suivre après la mise en service de votre box Jeedom.
 

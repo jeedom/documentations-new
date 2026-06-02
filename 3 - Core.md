@@ -1,4 +1,4 @@
-# Ressources Jeedom
+# 3 - Core jeedom
 
 Page d’accueil rapide vers les principales sections de la documentation Jeedom Core.
 

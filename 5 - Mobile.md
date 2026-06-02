@@ -1,4 +1,4 @@
-# Version mobile
+# 5 - Mobile
 
 Jeedom est utilisable sur Mobile de deux manières.
 
